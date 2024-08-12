@@ -1,0 +1,40 @@
+nav{
+    color: white;
+    background-color: #3e708d71;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #6c94c0;
+    color: #212529;
+}
+.presentacion{
+    display: flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+    padding: 1rem;
+    gap: 1rem;
+    border-style:double;
+}
+.portafoliodlm{
+    display: flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+    padding: 1rem;
+    gap: 1rem;
+    border-style:double;
+}
+ul{
+    list-style-type: none;
+}
+h3{
+    padding: 0%;
+    align-items: flex-start;
+}
+.card-img-exp{
+    width: 15rem;
+    height: 15rem;
+}
+footer{
+    text-align: center;
+    width: 80%;
+}
